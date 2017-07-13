@@ -5,9 +5,9 @@
 
 
 ###Feature
-1.Simple API
-2.Support any custom view
-3.All menu item is dynamic 
+1. Simple API
+2. Support any custom view
+3. All menu item is dynamic 
 
 
 
